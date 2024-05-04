@@ -1,0 +1,7 @@
+{
+    "show_token_cost": true,
+    "api_key": "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",
+    "temperature": 0.75,
+    "top_p": 0.94,
+    "model": "gpt-3.5-turbo"
+}

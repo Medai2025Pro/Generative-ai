@@ -1,0 +1,13 @@
+beautifulsoup4
+langchain
+newspaper3k
+openai
+Requests
+selenium
+selenium_stealth
+streamlit
+tiktoken
+langchain_openai
+undetected_chromedriver
+faiss-cpu
+
