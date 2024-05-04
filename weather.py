@@ -3,7 +3,7 @@
 import requests
 
 def get_weather_data(location):
-    api_key = '018ee17c36044d5fb01141237240904'  # Replace 'YOUR_API_KEY' with your actual API key from WeatherAPI
+    api_key = ''  # Replace 'YOUR_API_KEY' with your actual API key from WeatherAPI
     url = f'http://api.weatherapi.com/v1/current.json?key={api_key}&q={location}&aqi=no'
 
     try:
